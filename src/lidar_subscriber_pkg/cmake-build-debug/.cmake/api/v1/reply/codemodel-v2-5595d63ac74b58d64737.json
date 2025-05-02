@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4f1c7ac2db5f59e53ea7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lidar_subscriber_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_subscriber_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_subscriber_node-Debug-be5c5d71b27757f903aa.json",
+					"name" : "lidar_subscriber_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_subscriber_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_subscriber_pkg_uninstall-Debug-4c442016845a670814b9.json",
+					"name" : "lidar_subscriber_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-c8dd91b90ecba27b6d9a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug",
+		"source" : "/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

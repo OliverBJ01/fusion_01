@@ -1,0 +1,10 @@
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/uninstall.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/lidar_subscriber_pkg_uninstall.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/lidar_subscriber_node.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/test.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/edit_cache.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/rebuild_cache.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/list_install_components.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/install.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/install/local.dir
+/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug-lidar-remote-host/CMakeFiles/install/strip.dir

@@ -1,0 +1,65 @@
+# ROS/colcon specific
+/build/
+/cmake-build-debug/
+/log/
+/install/
+
+# Colcon custom files
+COLCON_IGNORE
+AMENT_IGNORE
+
+# Python artifacts
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+
+# CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# IDE specific
+.idea/
+.vscode/
+
+# Compiled files
+*.o
+*.so
+*.a
+*.exe
+
+
+# ROS specific
+devel/
+logs/
+bin/
+lib/
+msg_gen/
+srv_gen/
+*Action.msg
+*ActionFeedback.msg
+*ActionGoal.msg
+*ActionResult.msg
+*Goals.msg
+*Result.msg
+*Feedback.msg
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+

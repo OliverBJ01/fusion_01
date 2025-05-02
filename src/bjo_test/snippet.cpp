@@ -1,0 +1,1 @@
+auto fred = std::make_shared<string> = ("aaaa");

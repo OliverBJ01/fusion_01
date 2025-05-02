@@ -1,0 +1,10 @@
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/uninstall.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/lidar_subscriber_pkg_uninstall.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/lidar_subscriber_node.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/test.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/install.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/install/local.dir
+/home/bernard/workspaces/isaac_ros-dev/src/lidar_subscriber_pkg/cmake-build-debug/CMakeFiles/install/strip.dir
