@@ -4,14 +4,16 @@
       video_device: "/dev/video0"
       image_width: 1280
       image_height: 720
-      pixel_format: "yuyv2rgb"
-     # pixel_format: "yuyv2rgb"  # see usb_cam/supported_formats for list of supported formats
+      pixel_format: "yuyv2rgb" # see usb_cam/supported_formats for list of supported formats 
+      #pixel_format: "yuyv2rgb" # see usb_cam/supported_formats for list of supported formats 
       framerate: 30.0
-      camera_name: "arducam"
-      camera_info_url: ""
+      camera_name: "arducam_8mm" 
+#      camera_info_url: "file:///home/bernard/.ros/camera_info/arducam_16mm.yaml" # <--- Direct path
+      camera_info_url: "file:///home/bernard/.ros/camera_info/arducam_8mm.yaml" # <--- Direct path
+#      camera_info_url: "" 
       frame_id: "usb_camera_link"
       io_method: "mmap"
-      #av_device_format: "YUV422P" # <<< REMOVED / COMMENTED OUT
+
       
       brightness: -1
       contrast: -1
@@ -24,3 +26,4 @@
       exposure: 50
       autofocus: false
       focus: -1
+      
