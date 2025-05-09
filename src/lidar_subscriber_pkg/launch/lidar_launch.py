@@ -10,7 +10,6 @@ def generate_launch_description():
     """Generates the launch description for starting Velodyne nodes, TF, RViz, and subscriber."""
 
     # === Configuration Variables ===
-    # You can modify these values if needed
     velodyne_ip = '10.1.1.201'
     velodyne_rpm = 300.0
     velodyne_model = 'VLP16'
@@ -76,8 +75,8 @@ def generate_launch_description():
 
     # 5. Custom Lidar Subscriber Node
     lidar_subscriber = Node(
-        package='lidar_subscriber_pkg', # Replace if your package name is different
-        executable='lidar_subscriber_node', # Replace if your node name is different
+        package='lidar_subscriber_pkg', 
+        executable='lidar_subscriber_node',
         name='lidar_subscriber_node',
         output='screen'
     )
