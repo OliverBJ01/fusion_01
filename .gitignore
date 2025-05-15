@@ -1,0 +1,85 @@
+# ROS/colcon specific
+/build/
+/cmake-build-debug/
+/log/
+/install/
+
+# Colcon custom files
+COLCON_IGNORE
+AMENT_IGNORE
+
+# Python artifacts
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignored root-level directories
+/.venv/
+/bjo_calibration_bag/
+/bjo_calibration_bag_01/
+/bjo_calibration_bag_02/
+/bjo_calibration_bag_03/
+# Or, if you prefer the wildcard for these (less specific about root if not using /)
+# bjo_calibration_bag* # If using this, and you also have bjo_calibration_bag* inside src that you *do* want, be careful.
+# Leading slash makes it safer for root-only items:
+# /bjo_calibration_bag*/ 
+
+# Other ignores (these look fine)
+*.db3
+*.bag
+preprocessed_calibration_data/
+.idea/
+cmake-build-*/
+
+# Python virtual environment
+.venv/
+
+# CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# IDE specific
+.idea/
+.vscode/
+
+# Compiled files
+*.o
+*.so
+*.a
+*.exe
+
+
+# ROS specific
+devel/
+logs/
+bin/
+lib/
+msg_gen/
+srv_gen/
+*Action.msg
+*ActionFeedback.msg
+*ActionGoal.msg
+*ActionResult.msg
+*Goals.msg
+*Result.msg
+*Feedback.msg
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+
