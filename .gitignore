@@ -35,7 +35,7 @@ __pycache__/
 *.bag
 preprocessed_calibration_data/
 .idea/
-cmake-build-*/
+cmake-build-*/.gitignore lists lib/
 
 # Python virtual environment
 .venv/
@@ -64,7 +64,6 @@ install_manifest.txt
 devel/
 logs/
 bin/
-lib/
 msg_gen/
 srv_gen/
 *Action.msg
